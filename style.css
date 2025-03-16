@@ -42,7 +42,7 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #C2A2FF;
+    background-color: #A294F9;
     min-width: 150px;
     box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
     z-index: 1;
@@ -57,7 +57,7 @@
 }
 
 .dropdown-content a:hover {
-    background-color: #99dae6;
+    background-color: #b299e6;
 }
 
 .dropdown:hover .dropdown-content {
