@@ -5,12 +5,12 @@
 }
 
 body {
-    background-color: #E5D9F2;
+    background-color: #F5EFFF;
     font-family: Arial, sans-serif;
 }
 
 .navbar {
-    background-color: #F5EFFF;
+    background-color: #A294F9;
     padding: 15px;
     display: flex;
     justify-content: space-between;
