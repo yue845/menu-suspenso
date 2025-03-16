@@ -4,12 +4,6 @@
     box-sizing: border-box;
 }
 
-nav {
-    display: grid;
-    grid-template-columns: 20% 10% 50%;
-    
-}
-
 .navbar {
     background-color: #A294F9;
     padding: 15px;
@@ -95,4 +89,5 @@ li {
 body {
     background-color: #F5EFFF;
     font-family: Arial, sans-serif;
+    align-content: center;
 }    
