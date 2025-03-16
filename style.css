@@ -4,11 +4,6 @@
     box-sizing: border-box;
 }
 
-nav {
-    display: grid;
-    grid-template-columns: 10% 10% 80%;
-}
-
 .navbar {
     background-color: #A294F9;
     padding: 15px;
@@ -31,6 +26,10 @@ nav {
     font-size: 18px 8px;
     padding: 5px 10px;
     border-radius: 5px;
+}
+
+.menu a {
+    text-decoration: none;
 }
 
 .dropdown {
