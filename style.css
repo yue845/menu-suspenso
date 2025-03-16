@@ -57,7 +57,7 @@
 }
 
 .dropdown-content a:hover {
-    background-color: #b299e6;
+    background-color: #A294F9;
 }
 
 .dropdown:hover .dropdown-content {
@@ -93,4 +93,6 @@ body {
 
 h2 {
     display: flex;
+    justify-content: center;
+    padding: 200px;
 }
