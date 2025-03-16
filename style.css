@@ -5,11 +5,12 @@
 }
 
 body {
+    background-color: #E5D9F2;
     font-family: Arial, sans-serif;
 }
 
 .navbar {
-    background-color: #553B8E;
+    background-color: #A294F9;
     padding: 15px;
     display: flex;
     justify-content: space-between;
@@ -25,7 +26,8 @@ body {
 
 .menu button {
     text-decoration: none;
-    color: rgb(154, 80, 80);
+    background-color: #CDC1FF;
+    color: gray;
     font-size: 18px 8px;
     padding: 5px 10px;
 }
