@@ -6,7 +6,7 @@
 
 nav {
     display: grid;
-    grid-template-columns: 10% 20% 50%;
+    grid-template-columns: 20% 10% 50%;
     
 }
 
