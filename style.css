@@ -8,12 +8,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-nav {
-    display: grid;
-    grid-template-columns: 30% 20% 50%;
-    
-}
-
 .navbar {
     background-color: #553B8E;
     padding: 15px;
@@ -29,10 +23,10 @@ nav {
     gap: 20px;
 }
 
-.menu a {
+.menu button {
     text-decoration: none;
     color: white;
-    font-size: 18px;
+    font-size: 18px 8px;
     padding: 5px 10px;
 }
 
@@ -73,10 +67,5 @@ nav {
 
 li {
     list-style: none;
-}
-
-button {
-    padding: 12px 8px;
-    background-color: lightgreen;
 }
     
