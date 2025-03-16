@@ -3,9 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     font-family: Arial, sans-serif;
 }
+
 .navbar {
     background-color: #553B8E;
     padding: 15px;
@@ -15,20 +17,24 @@ body {
     color: white;
     position: relative;
 }
+
 .menu {
     display: flex;
     gap: 20px;
 }
+
 .menu a {
     text-decoration: none;
     color: white;
     font-size: 18px;
     padding: 5px 10px;
 }
+
 .dropdown {
     position: relative;
     display: inline-block;
 }
+
 .dropdown-content {
     display: none;
     position: absolute;
@@ -38,19 +44,33 @@ body {
     z-index: 1;
     border-radius: 5px;
 }
+
 .dropdown-content a {
     color: black;
     padding: 10px;
     display: block;
     text-decoration: none;
 }
+
 .dropdown-content a:hover {
     background-color: #b299e6;
 }
+
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
 .hamburger {
     font-size: 24px;
     cursor: pointer;
 }
+
+li {
+    list-style: none;
+}
+
+button {
+    padding: 12px 8px;
+    background-color: lightgreen;
+}
+    
