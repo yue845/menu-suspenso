@@ -89,5 +89,8 @@ li {
 body {
     background-color: #F5EFFF;
     font-family: Arial, sans-serif;
-    align-content: center;
-}    
+}
+
+h2 {
+    display: flex;
+}
