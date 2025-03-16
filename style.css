@@ -10,7 +10,7 @@ body {
 }
 
 .navbar {
-    background-color: #A294F9;
+    background-color: #F5EFFF;
     padding: 15px;
     display: flex;
     justify-content: space-between;
@@ -27,7 +27,7 @@ body {
 .menu button {
     text-decoration: none;
     background-color: #CDC1FF;
-    color: gray;
+    color: black;
     font-size: 18px 8px;
     padding: 5px 10px;
 }
